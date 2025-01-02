@@ -1,0 +1,6 @@
+ASSALM O ALAIKUM:
+I Adnan Muhammad sap id 63303. I make this project in html on the website about the P9 headphones cover checkout page
+I have a also included some essential pages like about us home and contact us on the headers and also some pages on the footer like terms and conditions and privacy policey page.
+Every button in the website is click able which means you will be redirected to another page which is liked or assocuated with the relevant button 
+thank you 
+My github profile link is shown below
